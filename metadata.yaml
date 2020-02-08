@@ -1,0 +1,29 @@
+_repo: Attila-and-His-Conquerors-A-Story-of-the-Days-of-St-Patrick-and-St-Leo-the-Great_61247
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Charles, Elizabeth Rundle
+    alias: Charles, Elisabeth Rundle
+    birthdate: 1828
+    deathdate: 1896
+    gutenberg_agent_id: '25999'
+    url: http://www.gutenberg.org/2009/agents/25999
+    wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Charles
+description: ''
+gutenberg_issued: '2020-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '61247'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Attila, -453 -- Fiction'
+- !lcsh 'Rome -- History -- Empire, 284-476 -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: 'Attila and His Conquerors: A Story of the Days of St. Patrick and St. Leo
+  the Great'
+url: http://www.gutenberg.org/ebooks/61247
